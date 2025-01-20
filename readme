@@ -1,1 +1,13 @@
-##PORTFOLIO DESENVOLVIDDO 
+# PORTFOLIO
+Este repositório é um projecto na qual desenvolvi um website portfolio para um estudante da Universidade Eletrotécnica de São Petersburgo "LETI" em homenagem a V.I. Ulyanov (Lenin) na russia, o projecto em uma pagina estatica.
+**Atenção** pelo pedido do cliente não apliquei nenhum padrão de arquitetura de projeto.
+
+## Tecnológias usadas
+
+1. **HTML**: é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML.
+
+2. **CSS**: é um conjunto de propriedades visuais para um elemento, o CSS define regras que fazem as definições de estilo casarem com um elemento ou grupo de elemento, o documento pode conter um bloco de CSS num elemento style ou usando o elemento link apontando para um arquivo externo que contenha o bloco CSS.
+3. **Javascript**: JavaScript (frequentemente abreviado como JS) é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma (protótipos, orientado a objeto, imperativo e funcional).
+
+3. **bootstrap**: é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web, usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.
+
